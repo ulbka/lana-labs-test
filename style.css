@@ -1,0 +1,51 @@
+.bar {
+    fill: red;
+}
+
+.bar .extent {
+    fill: #00dcab;
+}
+
+.axis {
+    font: 13px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: none;
+    shape-rendering: crispEdges;
+}
+
+.x.axis path {
+    display: none;
+}
+
+svg {
+    font: 10px sans-serif;
+}
+
+.selecting circle.selected {
+    stroke: red;
+}
+
+.resize path {
+    fill: #fff;
+    fill-opacity: .1;
+    stroke: darkgreen;
+    stroke-width: 12px;
+}
+
+.x.axis path, .x.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.brush .extent {
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+#selected{
+    fill: red;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "lana-labs-test",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "bulliana"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ulbka/lana-labs-test",
+  "private": true,
+  "dependencies": {
+    "d3.slider": "*"
+  },
+  "devDependencies": {
+    "d3.slider": "*"
+  }
+}
